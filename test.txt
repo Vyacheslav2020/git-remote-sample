@@ -4,3 +4,4 @@ Add new line. 456
 123
 456
 Merge (dev)
+Merge2 (dev)
